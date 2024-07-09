@@ -1,8 +1,8 @@
-// const arr1 = [1,"2",3.1,-4,5]
+const arr1 = [1,"2",3.1,-4,5]
 
-// for (const element of arr1) {
-//     console.log(element);
-// }
+for (const element of arr1) {
+    console.log(element);
+}
 
 function isPrime(num) {
   if (num <= 1) return false;
